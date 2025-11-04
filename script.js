@@ -37,3 +37,7 @@ frequências[palavra] = 1;
 
 frequências de retorno;
 }
+function tiraPalavrasRuins(palavras){
+    const PALAVRAS_RUINS = new Set(["para","nós", "das", "como", "que"]);
+    const palavras 
+}
